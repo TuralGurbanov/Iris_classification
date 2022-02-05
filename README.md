@@ -1,3 +1,3 @@
 # Iris_classification
 
-Bunu oxu
+Iris classified
